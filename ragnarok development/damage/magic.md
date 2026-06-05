@@ -1,5 +1,7 @@
 # Magic Damage Pipeline (`BF_MAGIC`)
 
+test `123` 
+
 All magic attacks — bolt skills, AoE spells, and support-converted damage — flow through `battle_calc_magic_attack()`. Unlike the physical pipeline, magic damage uses MATK instead of ATK, MDEF instead of DEF, and has no hit/flee check by default.
 
 **Source file:** `src/map/battle.cpp` — `battle_calc_magic_attack()` starts at line 7311.
