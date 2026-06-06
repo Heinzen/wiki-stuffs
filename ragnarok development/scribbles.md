@@ -3,6 +3,7 @@
 ### Gunslinger:
 - Dual Wield dagger+pistol
     - Maybe auto-cast
+    - Entirely melee if wielding a dagger
 - Wield Assault Rifles
 - Do not over complicate with too many weapon types
 
